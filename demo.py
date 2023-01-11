@@ -1,14 +1,9 @@
-print("Hello iNeuron!!")
-print("Hell0")
-print("Hello iNeuron!!")
-print("This is line 4")
-print("Hello iNeuron!!")
-print("Hell0")
-print("Hello iNeuron!!")
-print("Hell0")
-print("Hello iNeuron!!")
-print("Let's create a conflict")
-print("Hello iNeuron!!")
-print("Hell0")
-print("Hello iNeuron!!")
-print("Hell0")
+print("Line1")
+print("Line2")
+print("Line3")
+print("Line4")
+print("Line5")
+print("Line6")
+
+
+
