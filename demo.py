@@ -1,7 +1,7 @@
 print("Hello iNeuron!!")
 print("Hell0")
 print("Hello iNeuron!!")
-print("Hell0")
+print("Hello")
 print("Hello iNeuron!!")
 print("Hell0")
 print("Hello iNeuron!!")
